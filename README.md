@@ -1,27 +1,115 @@
-# 💫 About Me:
-Hii, I am Dhruv Puri<br>Currently i'm working on python 
+# Dhruv Puri
 
+```typescript
+const profile = {
+  name: "Dhruv Puri",
+  bio: "AI & Data Science student building data-driven dashboards and predictive systems focused on real-world social impact.",
+  currentWork: "Developing an AI-based inventory risk prediction system using real-world grocery demand data and Streamlit dashboards.",
+  learning: "Improving skills in data analysis, machine learning, and deploying interactive dashboards for decision support systems.",
+  interests: "pen-source contribution,data visualization,AI for social good,ml,cloud-based analytics systems",
+  skills: [
+    "HTML5",
+    "CSS3",
+    "MySQL",
+    "MongoDB",
+    "Pandas",
+    "NumPy",
+    "TensorFlow",
+    "Scikit-Learn",
+    "Python"
+  ],
+}
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruv_goswamiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-puri-9829482a1) 
+## 🔭 I'm currently working on
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhruvg0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvg0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvg0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Developing an AI-based inventory risk prediction system using real-world grocery demand data and Streamlit dashboards.
+
+## 🌱 I'm currently learning
+
+Improving skills in data analysis, machine learning, and deploying interactive dashboards for decision support systems.
+
+## 👀 I'm interested in
+
+pen-source contribution, data visualization, AI for social good,ml, cloud-based analytics systems
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhruvg0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ⚠️ Important: Replace 'Dhruvg0' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvg0&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dhruvg0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=Dhruvg0&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ⚠️ Important: Replace 'Dhruvg0' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'Dhruvg0' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvg0&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'Dhruvg0' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvg0&theme=dark&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "HTML5",
+    "CSS3"
+  ],
+  "backend": [
+    "MySQL",
+    "MongoDB"
+  ],
+  "ai/ml": [
+    "Pandas",
+    "NumPy",
+    "TensorFlow",
+    "Scikit-Learn"
+  ],
+  "languages": [
+    "Python"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "Dhruvg0",
+  linkedin: "https://www.linkedin.com/in/dhruv-puri-9829482a1/",
+  leetcode: "https://leetcode.com/u/Dhruv_Goswamii/",
+}
+```
+
+<div>
+<a href="https://github.com/Dhruvg0"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dhruv-puri-9829482a1/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/Dhruv_Goswamii/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> 
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "dhruvpurigoswami2004@gmail.com",
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
