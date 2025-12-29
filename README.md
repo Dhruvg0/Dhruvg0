@@ -14,8 +14,7 @@
 AI/ML student exploring Data Science, machine learning, and data-driven problem solving through real projects.
 
 
-
-<img src="https://slackmojis.com/emojis/1972-star/download" width="20" /> **Languages and Tools**
+<h2><img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30" /> <b>Tech Stack<b/></h2>
     
 ![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=MongoDB&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
