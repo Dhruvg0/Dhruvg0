@@ -36,7 +36,5 @@ AI/ML student exploring Data Science, machine learning, and data-driven problem 
 <img src="https://slackmojis.com/emojis/3957-winner/download" width="20" /> **Top Repositories** 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Dhruvg0&limit=5&theme=react&combine_all_yearly_contributions=true)
-    
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvg0&show_icons=true&theme=tokyonight)
 
 <!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
