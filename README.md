@@ -1,101 +1,85 @@
-<div align="center">
+# Hi 👋, I'm Dhruv Puri
 
-# 🌟 Welcome to Dhruv Puri's Profile 🌟
-
-<p><em>AI & Data Science student building data-driven dashboards and predictive systems focused on real-world social impact.</em></p>
-
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
-</div>
-
-<hr>
+**AI & Data Science student building data-driven dashboards and predictive systems focused on real-world social impact.**
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>Developing an AI-based inventory risk prediction system using real-world grocery demand data and Streamlit dashboards.</p></div>
+Developing an AI-based inventory risk prediction system using real-world grocery demand data and Streamlit dashboards.
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>Improving skills in data analysis, machine learning, and deploying interactive dashboards for decision support systems.</p></div>
+Improving skills in data analysis, machine learning, and deploying interactive dashboards for decision support systems.
 
 ## 👀 I'm interested in
 
-<div align="center"><p>pen-source contribution, data visualization, AI for social good,ml, cloud-based analytics systems</p></div>
+pen-source contribution, data visualization, AI for social good,ml, cloud-based analytics systems
 
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'Dhruvg0' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvg0&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvg0&theme=flat&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'Dhruvg0' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvg0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvg0&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'Dhruvg0' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvg0&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvg0&layout=compact&langs_count=10&theme=default"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'Dhruvg0' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvg0&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvg0&theme=default&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
 
-<div align="center">
-
 ### 🎨 Frontend
 
-<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4">
+<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> 
 
 ### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1">
-
-### 🧠 AI/ML
-
-<img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Scikit-Learn-05122A?style=for-the-badge&color=00CED1">
+<img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> 
 
 ### 💬 Languages
 
-<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500">
+<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> 
 
-</div>
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-00CED1?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit-Learn-00CED1?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
 
 ## 🌐 Socials
 
 <div align="center">
 
-<a href="https://github.com/Dhruvg0"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/dhruv-puri-9829482a1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-puri-9829482a1/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Dhruvg0) 
 
 </div>
 
 ## 📫 How to reach me
 
-<div align="center">
+<div align="left">
 
-**Email:** dhruvpurigoswami2004@gmail.com
+📧 **Email:** [dhruvpurigoswami2004@gmail.com](mailto:dhruvpurigoswami2004@gmail.com)
 
 </div>
 
+---
+⭐️ From [Dhruv Puri](https://github.com/Dhruvg0)
+
+<!-- Profile views counter -->
 <div align="center">
-
-<!-- ⚠️ Important: Replace 'Dhruvg0' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=Dhruvg0&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/Dhruvg0?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
-
+  <img src="https://profile-counter.glitch.me/Dhruvg0/count.svg" alt="Visitor Count" />
 </div>
