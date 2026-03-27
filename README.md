@@ -60,23 +60,6 @@ Hi! I'm **Dhruv Puri**, a passionate **AI/ML student** exploring the world of Da
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvg0&bg_color=09131B&color=14C6FB&line=FFE400&point=14C6FB&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19&height=100&section=footer"/>
-</div>
-
----
-<div align="center">
-  <b>⭐ Star some repositories if you find them interesting!</b>
-</div>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Dhruvg0&icon=0&color=0" />
