@@ -18,17 +18,16 @@ Hi! I'm **Dhruv Puri**, a passionate **AI/ML student** exploring the world of Da
 - 💬 **Ask me about**: Python, Machine Learning, Data Science, SQL, and building ML pipelines
 - ⚡ **Fun fact**: I believe every dataset has a story — I just help it speak! 📊
 
-### 🌐 Find Me Online:
-- 💼 **LinkedIn**: [dhruv-puri](https://www.linkedin.com/in/dhruv-puri-9829482a1/)
-- 🐙 **GitHub**: [Dhruvg0](https://github.com/Dhruvg0)
-
 <h3 align="left">🎯 Let's Connect!</h3>
 <p align="left">
   <a href="https://github.com/Dhruvg0" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Dhruvg0" height="70" width="80" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Dhruvg0" height="55" width="60" />
   </a>
   <a href="https://www.linkedin.com/in/dhruv-puri-9829482a1/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="dhruv-puri" height="70" width="80" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="dhruv-puri" height="55" width="60" />
+  </a>
+  <a href="mailto:dhruvpurigoswami2004@gmail.com" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="email" height="55" width="60" />
   </a>
 </p>
 
@@ -37,7 +36,7 @@ Hi! I'm **Dhruv Puri**, a passionate **AI/ML student** exploring the world of Da
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,fastapi,docker,kubernetes,aws,git,github,mysql,mongodb,linux,vscode,tensorflow,pytorch&perline=9" width="100%" height="auto" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,fastapi,docker,kubernetes,aws,git,github,mysql,mongodb,linux,vscode,tensorflow,pytorch&perline=9&theme=dark" width="75%" height="auto" />
   </a>
 </p>
 
