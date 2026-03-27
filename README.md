@@ -27,7 +27,7 @@ Hi! I'm **Dhruv Puri**, a passionate **AI/ML student** exploring the world of Da
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="dhruv-puri" height="55" width="60" />
   </a>
   <a href="mailto:dhruvpurigoswami2004@gmail.com" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="email" height="55" width="60" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="35" />
   </a>
 </p>
 
@@ -62,9 +62,9 @@ Hi! I'm **Dhruv Puri**, a passionate **AI/ML student** exploring the world of Da
 
 <br/>
 
-## 🏆 GitHub Trophies:
+## 🐍 Contribution Snake:
 <div align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=Dhruvg0&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
