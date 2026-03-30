@@ -20,9 +20,7 @@ Hi! I'm **Dhruv Puri**, a passionate **AI/ML student** exploring the world of Da
 
 <h3 align="left">🎯 Let's Connect!</h3>
 <p align="left">
-  <a href="https://github.com/Dhruvg0" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Dhruvg0" height="55" width="60" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/dhruv-puri-9829482a1/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="dhruv-puri" height="55" width="60" />
   </a>
