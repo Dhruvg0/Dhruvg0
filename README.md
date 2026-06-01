@@ -41,37 +41,12 @@ Status   : Open to internships, collabs & open source
 ---
 
 ## `> tech_stack`
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=C8882E)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=C8882E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=C8882E)
-![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=mysql&logoColor=C8882E)
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=C8882E)
-![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=C8882E)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0A?style=flat-square&logo=pytorch&logoColor=C8882E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=C8882E)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0A0A0A?style=flat-square&logo=scikit-learn&logoColor=C8882E)
-![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logo=chainlink&logoColor=C8882E)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0A0A0A?style=flat-square&logo=huggingface&logoColor=C8882E)
-![MLflow](https://img.shields.io/badge/MLflow-0A0A0A?style=flat-square&logo=mlflow&logoColor=C8882E)
-
-**Infra / Cloud / Web**
-
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonaws&logoColor=C8882E)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=C8882E)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=C8882E)
-![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=C8882E)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=C8882E)
-![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=flat-square&logo=supabase&logoColor=C8882E)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0A0A0A?style=flat-square&logo=cloudflare&logoColor=C8882E)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=C8882E)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=C8882E)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=C8882E)
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,fastapi,docker,kubernetes,aws,git,github,mysql,mongodb,linux,vscode,tensorflow,pytorch&perline=9&theme=dark" width="75%" height="auto" />
+  </a>
+</p>
 
 ---
 
