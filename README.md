@@ -15,14 +15,14 @@
 </p>
 </div>
 ---
-## `> whoami`
-```text
+## > whoami
+text
 Name     : Dhruv Puri
 Role     : AI/ML Engineer · Final Year B.Tech CSE (AI), Parul University
 CGPA     : 8.13
 Location : India 🇮🇳
 Status   : Open to internships, collabs & open source
-```
+
 - 🔭 **Currently building** — AI/ML-powered full-stack applications & LLM-integrated tools
 - 🌱 **Going deep on** — Deep Learning · LLMs · MLOps · RAG · Agentic Systems
 - 🏆 **GSSoC 2026** — Ranked ~#2,449 globally · Top 6% · Starter Tier · 2 merged PRs
@@ -30,7 +30,7 @@ Status   : Open to internships, collabs & open source
 - 💬 **Ask me about** — Python · LangChain · MLflow · FastAPI · RAG pipelines
 - ⚡ **Fun fact** — Every dataset has a story. I just help it speak 📊
 ---
-## `> tech_stack`
+## > tech_stack
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,7 +38,7 @@ Status   : Open to internships, collabs & open source
   </a>
 </p>
 ---
-## `> github_stats`
+## > github_stats
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruvg0&show_icons=true&count_private=true&hide_border=true&title_color=C8882E&icon_color=C8882E&bg_color=0A0A0A&text_color=B8A880" />
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvg0&layout=compact&hide_border=true&title_color=C8882E&text_color=B8A880&bg_color=0A0A0A" />
