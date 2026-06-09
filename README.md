@@ -48,54 +48,6 @@ class DhruvPuri:
 
 <div align="center">
 
-## ◈ WHAT I BUILD
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔷 VitalFlow
-> Blood Donation Platform — Full-Stack  
-> `Vanilla JS` · `Supabase` · `Node.js` · `PostgreSQL` · `Cloudflare`  
-> Real-time donor matching with location-aware search
-
-</td>
-<td width="50%" valign="top">
-
-### 🔷 PredictaStock AI
-> ML Inventory Forecasting System  
-> `FastAPI` · `Scikit-learn` · `React` · `Docker`  
-> Predictive analytics pipeline with REST API
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔷 DocQA
-> RAG-based Document Intelligence  
-> `LangChain` · `ChromaDB` · `Gemini API` · `FastAPI`  
-> Semantic search over unstructured documents
-
-</td>
-<td width="50%" valign="top">
-
-### 🔷 ClimaGuard *(Hackathon)*
-> AI Hyperlocal Climate Early Warning  
-> `Gemini 1.5 Flash` · `LangChain` · `Public APIs`  
-> Team NexTerra — Parul University Hackathon 2026
-
-</td>
-</tr>
-</table>
-
-> 🔐 **Sekku** *(In Progress)* — AI-powered code review agent using LangChain + Gemini. Reserved as a bonus card.
-
----
-
-<div align="center">
 
 ## ◈ TECH MATRIX
 
