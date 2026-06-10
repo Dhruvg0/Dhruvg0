@@ -1,140 +1,67 @@
+<p align="center">
+  <img width="900" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14C6FB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;[Learn+Deeply];+[Build+Smartly];+[Innovate+with+AI];" alt="Animated typing text" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Dhruv Puri</h1>
+<h3 align="center">AI/ML Student & Aspiring Data Scientist from India 🇮🇳</h3>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Dhruv Puri**, a passionate **AI/ML student** exploring the world of Data Science, Machine Learning, and data-driven problem solving through real-world projects.
+
+### 🚀 What I'm Up To:
+- 💻 **Currently working on**: A personal project — building and experimenting with AI/ML-powered applications
+- 🌱 **Always learning**: Deep Learning, LLMs, MLOps, and scalable system design
+- 🤝 **Open to collaboration on**: Open source AI/ML projects, research, and innovative ideas
+- 💬 **Ask me about**: Python, Machine Learning, Data Science, SQL, and building ML pipelines
+- ⚡ **Fun fact**: I believe every dataset has a story — I just help it speak! 📊
+
+<h3 align="left">🎯 Let's Connect!</h3>
+<p align="left">
+  <a href="https://github.com/Dhruvg0" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Dhruvg0" height="55" width="60" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/dhruv-puri-9829482a1/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="dhruv-puri" height="55" width="60" />
+  </a>
+  <a href="mailto:dhruvpurigoswami2004@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="35" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,fastapi,docker,kubernetes,aws,git,github,mysql,mongodb,linux,vscode,tensorflow,pytorch&perline=9&theme=dark" width="75%" height="auto" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
 <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dhruvg0&show_icons=true&count_private=true&hide_border=true&title_color=14C6FB&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Dhruv Puri github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvg0&layout=compact&hide_border=true&title_color=14C6FB&text_color=14C6FB&bg_color=09131B" />
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  initializing_neural_pathways... loading dhruv.exe... ▓▓▓▓  ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Dhruv%20Puri&fontSize=70&color=0:0d0d0d,100:1a1a2e&fontColor=00d4ff&stroke=00d4ff&strokeWidth=2&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+in+the+Making;Full-Stack+AI+Developer;Building+Intelligent+Systems;LLMs+%7C+RAG+%7C+Agentic+AI;Open+Source+%40+GSSoC+2026+%E2%80%94+Top+4%25" alt="Typing SVG" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dhruvg0&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-dhruv--puri--portfolio.pages.dev-00d4ff?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)](https://dhruv-puri-portfolio.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-Connect-00d4ff?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)](https://linkedin.com/in/dhruv-puri)
-[![GitHub](https://img.shields.io/badge/◈_GitHub-@dhruvg0-00d4ff?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)](https://github.com/dhruvg0)
-[![Kaggle](https://img.shields.io/badge/◈_Kaggle-Contributor-00d4ff?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)](https://kaggle.com/dhruvpuri)
-
+## 📈 Activity Graph:
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvg0&bg_color=09131B&color=14C6FB&line=FFE400&point=14C6FB&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
----
 
 <div align="center">
-
-## ◈ SYSTEM PROFILE
-
-</div>
-
-```python
-class DhruvPuri:
-    def __init__(self):
-        self.name         = "Dhruv Puri"
-        self.alias        = "dhruvg0"
-        self.location     = "Vadodara, India 🇮🇳"
-        self.education    = "B.Tech CSE (AI Specialization) @ Parul University — 2027"
-        self.cgpa         = 8.1
-        self.focus        = ["AI/ML Engineering", "Full-Stack AI", "Agentic Systems"]
-        self.currently    = "Building Sekku — AI Code Review Platform (LangChain + Gemini)"
-        self.open_to      = ["AI/ML Internships", "Full-Stack AI Roles", "Open Source"]
-        self.fun_fact     = "Top 4% among 43,500+ contributors @ GSSoC 2026"
-
-    def greet(self):
-        return "I don't just use AI. I build with it. 🔷"
-```
-
----
-
-<div align="center">
-
-
-## ◈ TECH MATRIX
-
-</div>
-
-```
-╔─────────────────────────────────────────────────────────────────╗
-║  LANGUAGES        Python · JavaScript · SQL · C++               ║
-║  AI/ML            Scikit-learn · Pandas · NumPy · LangChain     ║
-║                   Gemini API · ChromaDB · RAG · Agents          ║
-║  BACKEND          FastAPI · Node.js · Express · REST APIs       ║
-║  FRONTEND         React · Vite · HTML/CSS                       ║
-║  DATABASES        PostgreSQL · MySQL · MongoDB · Supabase       ║
-║  DEVOPS/CLOUD     Docker · AWS · Git · Cloudflare Pages         ║
-╚─────────────────────────────────────────────────────────────────╝
-```
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=00d4ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&logo=fastapi&logoColor=00d4ff)
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00d4ff)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logo=langchain&logoColor=00d4ff)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=00d4ff)
-![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazonaws&logoColor=00d4ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=00d4ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=00d4ff)
-![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=00d4ff)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=00d4ff)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=00d4ff)
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ GITHUB SIGNAL
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruvg0&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d0d0d&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=dhruvg0&theme=dark&hide_border=true&background=0D0D0D&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvg0&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d0d0d&langs_count=8" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ CERTIFICATIONS & ACHIEVEMENTS
-
-</div>
-
-| Badge | Credential | Issuer |
-|:---:|---|---|
-| 🏅 | AWS Cloud Practitioner | Amazon Web Services |
-| 🏅 | AI Fluency Certification | Anthropic |
-| 🏅 | Python 5★ · SQL Advanced | HackerRank |
-| 🏅 | AI/ML Professional Path | IBM |
-| 🏆 | Top 4% — 43,500+ Contributors | GSSoC 2026 |
-| 🎯 | Kaggle Contributor | Kaggle |
-
----
-
-<div align="center">
-
-## ◈ ACTIVITY GRID
-
-![Dhruv's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvg0&bg_color=0d0d0d&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  "The best model is the one that ships."                    │
-│                                    — something I live by    │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0d0d0d,100:1a1a2e&section=footer" />
-
-![Profile Views](https://visitcount.itsvg.in/api?id=dhruvg0&label=Profile%20Views&color=9&icon=6&pretty=true)
-
+  <img src="https://visitcount.itsvg.in/api?id=Dhruvg0&icon=0&color=0" />
 </div>
