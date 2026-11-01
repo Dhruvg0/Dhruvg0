@@ -73,14 +73,13 @@ I like turning interesting ideas into useful software. I'm exploring **machine l
 ## `04` / GitHub activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruvg0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&icon_color=67E8F9" alt="Dhruv's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvg0&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruvg0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF" alt="Dhruv's GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvg0&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Dhruvg0&hide_border=true&background=0D1117&ring=C084FC&fire=67E8F9&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub contribution streak" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=Dhruvg0&hide_border=true&background=0D1117&ring=FFFFFF&fire=67E8F9&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 </div>
-
 ---
 
 <div align="center">
