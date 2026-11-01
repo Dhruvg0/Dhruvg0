@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="assets/case-board.svg" width="100%" height=700  alt="A detective-style investigation board connecting Dhruv Puri with his projects, experience, interests, and tools." />
+  <img src="assets/case-board.svg" width="100%" height=600  alt="A detective-style investigation board connecting Dhruv Puri with his projects, experience, interests, and tools." />
 </div>
 
 <br>
