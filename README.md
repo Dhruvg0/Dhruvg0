@@ -1,17 +1,21 @@
-<!-- ═══════════════════════════════════════════════════════════════════════
-     DH R U V   P U R I  ·  BUILDER'S CASE FILE
-     Keep case-board.svg in the repository's assets/ directory.
+ <!-- ═══════════════════════════════════════════════════════════════════════
+     DHRUV PURI · BUILDER'S CASE FILE
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="assets/case-board.svg" width="100%" height=600  alt="A detective-style investigation board connecting Dhruv Puri with his projects, experience, interests, and tools." />
+  <img src="assets/case-board.svg" width="100%" height="600" alt="Dhruv Puri's detective-style builder case file" />
 </div>
 
 <br>
 
-<h1 align="left">Hey, I'm Dhruv Puri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave" /></h1>
+<h1 align="left">
+  Hey, I'm Dhruv Puri
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave" />
+</h1>
 
 ### AI/ML Student · Builder · Curious by default
+
+<img align="right" src="assets/red-john.png" width="125" alt="Red John smiley symbol from The Mentalist" />
 
 I like turning interesting ideas into useful software. I'm exploring **machine learning, LLM applications, RAG systems, and backend engineering** — mostly by building things, breaking them, and figuring out how to make them better.
 
@@ -32,6 +36,8 @@ I like turning interesting ideas into useful software. I'm exploring **machine l
 - 🤝 Open to collaborating on practical AI/ML and open-source projects.
 
 > `build()` → `learn()` → `experiment()` → `ship()` → `repeat()`
+
+---
 
 ## `02` / Featured builds
 
@@ -58,10 +64,12 @@ I like turning interesting ideas into useful software. I'm exploring **machine l
   </tr>
 </table>
 
+---
+
 ## `03` / Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,postgres,mysql,mongodb,redis,docker,aws,git,github,linux,vscode,pytorch&perline=9&theme=dark" alt="Python, JavaScript, TypeScript, React, Node.js, HTML, CSS, PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS, Git, GitHub, Linux, VS Code and PyTorch" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,postgres,mysql,mongodb,redis,docker,aws,git,github,linux,vscode,pytorch&perline=9&theme=dark" alt="Tech stack" />
 </p>
 
 **AI / Data:** Machine Learning · PyTorch · scikit-learn · XGBoost · Pandas · NumPy · MLflow · LLMs · RAG · Embeddings · Vector Search
@@ -69,6 +77,8 @@ I like turning interesting ideas into useful software. I'm exploring **machine l
 **Engineering:** Python · JavaScript · TypeScript · React · Node.js · Express · SQL · PostgreSQL · MongoDB · Redis · REST APIs · Docker · Git · Linux
 
 <sub>Technologies reflect a mix of hands-on project work and ongoing learning.</sub>
+
+---
 
 ## `04` / GitHub activity
 
@@ -80,6 +90,7 @@ I like turning interesting ideas into useful software. I'm exploring **machine l
 <div align="center">
   <img width="75%" src="https://streak-stats.demolab.com?user=Dhruvg0&hide_border=true&background=0D1117&ring=FFFFFF&fire=67E8F9&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 </div>
+
 ---
 
 <div align="center">
